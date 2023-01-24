@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/golang-ebiten-helpers.iml" filepath="$PROJECT_DIR$/.idea/golang-ebiten-helpers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../golang_ebiten_helpers/.idea/golang-ebiten-helpers.iml" filepath="$PROJECT_DIR$/../golang_ebiten_helpers/.idea/golang-ebiten-helpers.iml" />
     </modules>
   </component>
 </project>
